@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+packages/OSX\ 10.5\ Intel/app_page=http\://api.appcelerator.net/p/pages/app_page?token\=f4x90FY2
+packages/OSX\ 10.5\ Intel/app_version=0.0.1
+packages/OSX\ 10.5\ Intel/label=OSX 10.5 Intel
+packages/OSX\ 10.5\ Intel/platform=osx
+packages/OSX\ 10.5\ Intel/pubdate=2012-06-08 03\:46\:50
+packages/OSX\ 10.5\ Intel/url=http\://api.appcelerator.net/p/v1/download?token\=b4xaPsz0
+packages/Windows\ 32-bit/app_page=http\://api.appcelerator.net/p/pages/app_page?token\=f4x90FY2
+packages/Windows\ 32-bit/app_version=0.0.1
+packages/Windows\ 32-bit/label=Windows 32-bit
+packages/Windows\ 32-bit/platform=win32
+packages/Windows\ 32-bit/pubdate=2012-06-08 03\:46\:50
+packages/Windows\ 32-bit/url=http\://api.appcelerator.net/p/v1/download?token\=H4xaPtA5

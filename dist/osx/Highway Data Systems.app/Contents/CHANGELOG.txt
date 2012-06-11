@@ -1,0 +1,2 @@
+0.0.1
+	First trial version integrating access to the remote MySQL server and to a local database

@@ -1,0 +1,20 @@
+#appname:Highway Data Systems
+#publisher:Matatiro Solutions Limited
+#url:http://www.msdev.co.uk
+#image:default_app_logo.png
+#appid:com.msdev.hds
+#desc:Provides systems integration for the Highway Data Systems pavement testing environment.
+#type:desktop
+#guid:8644b229-6e48-4dec-b419-866002767c37
+runtime:1.2.0.RC6e
+tiapp:1.2.0.RC6e
+tifilesystem:1.2.0.RC6e
+tiplatform:1.2.0.RC6e
+tiui:1.2.0.RC6e
+ticodec:1.2.0.RC6e
+tidatabase:1.2.0.RC6e
+timedia:1.2.0.RC6e
+timonkey:1.2.0.RC6e
+tinetwork:1.2.0.RC6e
+tiprocess:1.2.0.RC6e
+tiworker:1.2.0.RC6e
